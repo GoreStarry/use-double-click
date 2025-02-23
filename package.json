@@ -1,5 +1,5 @@
 {
-  "name": "git remote add origin git@github.com:GoreStarry/use-double-click.git",
+  "name": "use-double-click",
   "version": "1.0.5",
   "description": "A simple React hook for differentiating single and double clicks on the same component.",
   "author": "Tim Ellenberger <timellenberger@gmail.com>",
